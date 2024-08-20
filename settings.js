@@ -3,28 +3,28 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Star_King0" //ur yt chanel name
-global.socialm = "GitHub: STAR-KING0" //ur github or insta name
-global.location = "Nigeria, Lagos" //ur location
+global.igname = "ig: no.pm6" //ur yt chanel name
+global.socialm = "GitHub: Arslan-Nasi" //ur github or insta name
+global.location = "Asia, Karachi" //ur location
 
 //new
-global.botname = 'Alya-v2' //ur bot name
-global.ownernumber = ['2348100835767'] //ur owner number, dont add more than one
+global.botname = '✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺' //ur bot name
+global.ownernumber = ['923277217945'] //ur owner number, dont add more than one
 global.ownername = '🌟STAR KING' //ur owner name
-global.websitex = "https://youtube.com/@star_king0?si=Rjlqnue51sHnR6Mj"
-global.wagc = "https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D"
+global.websitex = "https://www.instagram.com/no.pm6?igsh=eWVyZjR5N2RlZWM2"
+global.wagc = "https://chat.whatsapp.com/I4eXS6M0ArnCGPPsgYwBOc"
 global.themeemoji = '🌸'
-global.wm = "Alya-v2."
-global.botscript = 'https://github.com/STAR-KING0/Alya-v2' //script link
+global.wm = "✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺"
+global.botscript "https://github.com/Arslan-Nasi/Alya-V2/edit/main"//script link'
 global.packname = "Sticker By"
-global.author = "🌟STAR KING\n\n+2348100835767"
-global.creator = "2348100835767@s.whatsapp.net"
+global.author = "🌟✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺\n\n+923277217945"
+global.creator = "923277217945@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348100835767"] // Premium User
+global.premium = ["923277217945"] // Premium User
 
 //channel id
 global.xchannel = {
-	jid: 'https://whatsapp.com/channel/0029VaeW5Tw4yltQOYIO5E2D'
+	jid: 'https://chat.whatsapp.com/I4eXS6M0ArnCGPPsgYwBOc'
 	}
 
 //bot sett
