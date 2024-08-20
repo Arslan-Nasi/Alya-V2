@@ -15,7 +15,7 @@ global.websitex = "https://www.instagram.com/no.pm6?igsh=eWVyZjR5N2RlZWM2"
 global.wagc = "https://chat.whatsapp.com/I4eXS6M0ArnCGPPsgYwBOc"
 global.themeemoji = '🌸'
 global.wm = "✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺"
-global.botscript "https://github.com/Arslan-Nasi/Alya-V2/edit/main"//script link'
+global.botscript = 'https://github.com/STAR-KING0/Alya-v2' //script link
 global.packname = "Sticker By"
 global.author = "🌟✪⏤͟͞★⃝ꪶ𝙆𝙞𝙣𝙜 𝘼𝙣𝙤𝙣𝙮𝙢𝙤𝙪𝙨👑➺\n\n+923277217945"
 global.creator = "923277217945@s.whatsapp.net"
